@@ -8,6 +8,6 @@ A auto-clicker for macOS.
 - Hotkey configuration.
 
 ## Download
-[Download Latest Version](https://github.com/yourusername/SpeedAutoClicker/releases/latest/download/SpeedAutoClicker.dmg)
+[Download Latest Version](https://github.com/wrealaero/SpeedAutoClicker/releases/latest/download/SpeedAutoClicker.dmg)
 
 # 97% Just Like SpeedAuto But On MAC
