@@ -1,0 +1,16 @@
+{
+  "click_interval_ms": 100.0,
+  "duty_cycle_percent": 50.0,
+  "mouse_button": "left",
+  "activation_mode": "toggle",
+  "hotkey": "f6",
+  "click_limit": {
+    "enabled": false,
+    "count": 1000
+  },
+  "last_position": {
+    "x": 0,
+    "y": 0
+  }
+}
+

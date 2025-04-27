@@ -1,0 +1,6 @@
+pynput>=1.7.6
+Pillow>=9.0.0
+pyobjc-core>=8.5
+pyobjc-framework-Cocoa>=8.5
+pyobjc-framework-Quartz>=8.5
+
